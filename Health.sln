@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Health", "Health\Health.csproj", "{021ECD54-AFC2-4F2A-8541-08DFB509B035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthTests", "HealthTests\HealthTests.csproj", "{50F77CC4-19DB-491B-960D-7746B9F18512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021ECD54-AFC2-4F2A-8541-08DFB509B035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021ECD54-AFC2-4F2A-8541-08DFB509B035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021ECD54-AFC2-4F2A-8541-08DFB509B035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021ECD54-AFC2-4F2A-8541-08DFB509B035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F77CC4-19DB-491B-960D-7746B9F18512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F77CC4-19DB-491B-960D-7746B9F18512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F77CC4-19DB-491B-960D-7746B9F18512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F77CC4-19DB-491B-960D-7746B9F18512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECE0C5B-E6DD-4C00-BAD7-81618C9E6B0A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{021ECD54-AFC2-4F2A-8541-08DFB509B035}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthTests/Tests/HealthRecordsTest.cs">
+    <Files>
+      <File FileName="Health/Program.cs" Line="20" Column="1" />
+      <File FileName="Health/appsettings.Development.json" />
+      <File FileName="Health/Properties/launchSettings.json" />
+      <File FileName="HealthTests/Usings.cs" />
+      <File FileName="HealthTests/Tests/HealthRecordsTest.cs" Line="41" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Health" expanded="True">
+            <Node name="HealthTests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="HealthRecordsTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Health" expanded="True" selected="True">
+            <Node name="HealthTests" expanded="True">
+              <Node name="HealthTests" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Health PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
