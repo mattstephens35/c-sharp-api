@@ -28,6 +28,9 @@ jobs:
       
     - name: Build
       run: dotnet build --configuration Release --no-restore
+
+    - name: Run
+      run: dotnet run --urls="https://localhost:7777"
     
     - name: Test
       run: dotnet test --no-restore --verbosity normal
